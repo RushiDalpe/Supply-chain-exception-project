@@ -28,5 +28,5 @@ Insights & Recommendations
 
  Author
 Rushikesh Dalpe  
-[Your GitHub Profile Link]
+
 
